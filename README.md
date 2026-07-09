@@ -21,4 +21,20 @@ Use input() for user message
 Use if-elif-else or dictionary
 Use while loop for continuous chat
 Use lower() to normalize text
+**task 2.data classification using ai:**
+Pass or Fail Student Classification
+*Project Overview
+This project classifies students as Pass or Fail based on their academic performance.
+It uses simple logic / machine learning to analyze student data.
+*Objective
+Predict student outcome (Pass/Fail)
+Help in identifying students who need improvement.
+**task 3.ai recommendation logic:**
+*Project Overview
+This project recommends suitable career paths using Artificial Intelligence.
+It analyzes user inputs like skills, interests, and education to suggest careers.
+*Objective
+Help users choose the right career path
+Provide personalized career recommendations
+Reduce confusion in career decision-making
 
