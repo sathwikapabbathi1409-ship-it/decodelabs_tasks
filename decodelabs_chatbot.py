@@ -241,7 +241,7 @@ def main():
         if should_exit:
             print("=" * 55)
             print("  🛡  Badge Unlocked: Rule-Based AI Chatbot")
-            print("      Project 1 complete! Proceed to Project 2.")
+            print("      Project 1 complete!")
             print("=" * 55 + "\n")
             break
 
